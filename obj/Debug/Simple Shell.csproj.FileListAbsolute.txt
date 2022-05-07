@@ -1,0 +1,22 @@
+C:\Users\c.delivery for lap\source\repos\Simple Shell\Simple Shell\bin\Debug\Simple Shell.exe.config
+C:\Users\c.delivery for lap\source\repos\Simple Shell\Simple Shell\bin\Debug\Simple Shell.exe
+C:\Users\c.delivery for lap\source\repos\Simple Shell\Simple Shell\bin\Debug\Simple Shell.pdb
+C:\Users\c.delivery for lap\source\repos\Simple Shell\Simple Shell\obj\Debug\Simple Shell.csprojAssemblyReference.cache
+C:\Users\c.delivery for lap\source\repos\Simple Shell\Simple Shell\obj\Debug\Simple Shell.csproj.CoreCompileInputs.cache
+C:\Users\c.delivery for lap\source\repos\Simple Shell\Simple Shell\obj\Debug\Simple Shell.exe
+C:\Users\c.delivery for lap\source\repos\Simple Shell\Simple Shell\obj\Debug\Simple Shell.pdb
+F:\fci\المواد\تالته (ترم تاني)\operating system\project\Simple Shell\Simple Shell\obj\Debug\Simple Shell.csprojAssemblyReference.cache
+F:\fci\المواد\تالته (ترم تاني)\operating system\project\Simple Shell\Simple Shell\obj\Debug\Simple Shell.csproj.CoreCompileInputs.cache
+F:\fci\المواد\تالته (ترم تاني)\operating system\project\Simple Shell\Simple Shell\obj\Debug\Simple Shell.exe
+F:\fci\المواد\تالته (ترم تاني)\operating system\project\Simple Shell\Simple Shell\obj\Debug\Simple Shell.pdb
+F:\fci\المواد\تالته (ترم تاني)\operating system\project\Simple Shell\Simple Shell\bin\Debug\Simple Shell.exe.config
+F:\fci\المواد\تالته (ترم تاني)\operating system\project\Simple Shell\Simple Shell\bin\Debug\Simple Shell.exe
+F:\fci\المواد\تالته (ترم تاني)\operating system\project\Simple Shell\Simple Shell\bin\Debug\Simple Shell.pdb
+D:\حاسبات 3\fci3.2\operatin system(os)\Simple Shell\Simple Shell\bin\Debug\Simple Shell.exe.config
+D:\حاسبات 3\fci3.2\operatin system(os)\Simple Shell\Simple Shell\bin\Debug\Simple Shell.exe
+D:\حاسبات 3\fci3.2\operatin system(os)\Simple Shell\Simple Shell\bin\Debug\Simple Shell.pdb
+D:\حاسبات 3\fci3.2\operatin system(os)\Simple Shell\Simple Shell\obj\Debug\Simple Shell.csproj.AssemblyReference.cache
+D:\حاسبات 3\fci3.2\operatin system(os)\Simple Shell\Simple Shell\obj\Debug\Simple Shell.csproj.SuggestedBindingRedirects.cache
+D:\حاسبات 3\fci3.2\operatin system(os)\Simple Shell\Simple Shell\obj\Debug\Simple Shell.csproj.CoreCompileInputs.cache
+D:\حاسبات 3\fci3.2\operatin system(os)\Simple Shell\Simple Shell\obj\Debug\Simple Shell.exe
+D:\حاسبات 3\fci3.2\operatin system(os)\Simple Shell\Simple Shell\obj\Debug\Simple Shell.pdb
